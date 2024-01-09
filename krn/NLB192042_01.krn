@@ -1,0 +1,489 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! Part of the Meertens Tune Collections (MTC) (http://www.liederenbank.nl/mtc)
+!! NLB identifier: NLB192042_01
+!! NLB record number: 192042
+!! NLB strophe/voice number: 1
+!!!OTL: Schoon ‘t ongeval mij sleurt, en ‘t hard van [...]
+**kern	**text
+*staff1	*staff1
+*clefG2	*
+*M4/4	*
+*MM120	*
+*k[b-]	*
+*g:dor	*
+!! segment 0.0
+=1	=1
+{4r	.
+4g	Schoon
+4g	't on-
+4a	-ge-
+=2	=2
+2b-	-val
+2a	mij
+=3	=3
+4g}	sleurt,
+!! segment 1.0
+{4dd	en
+4cc#	't hard
+4dd	van
+=4	=4
+2ff	droef-
+2ee	-heydt
+=5	=5
+1dd	scheurt,
+=6	=6
+4r}	.
+!! segment 2.0
+{4g	't is
+4g	lang
+4a	ge-
+=7	=7
+2b-	-noeg
+2a	ge-
+=8	=8
+4g}	-treurt,
+!! segment 3.0
+{4dd	de
+4cc#	vreugt
+4dd	heeft
+=9	=9
+2ff	oock
+2ee	haer
+=10	=10
+1dd}	beurt;
+==11||	==11||
+!! segment 4.0
+{4r	.
+4dd	komt
+4cc	hier
+4b-	mijn
+=12	=12
+4a	vrindt
+(8g	soo
+8a)	.
+4b-	langh
+(8a	be-
+8g)	.
+=13	=13
+4f#}	-mindt,
+!! segment 5.0
+{4g	sing
+4a	nu
+4b-	eens
+=14	=14
+4cc	uyt
+4a	den
+2b-	treu-
+=15	=15
+2a}	-ren,
+!! segment 6.0
+{(8g	fa
+8f)	.
+(8g	la
+8a)	.
+=16	=16
+(8b-	la
+8a)	.
+(8b-	la
+8cc)	.
+(8dd	la
+8cc)	.
+(8dd	la
+8ee)	.
+=17	=17
+4ff	la
+(8ee	la
+8dd)	.
+4cc	la
+4ff}	la
+!! segment 7.0
+=18	=18
+{4ee	't al-
+4dd	-le
+4cc	daegh
+4b-	niet
+=19	=19
+2a	beu-
+2g}	-ren,
+=20:!!:	=20:!!:
+!! segment 8.0
+{4r	.
+4g	ver-
+4g	-set
+4a	nu
+=21	=21
+2b-	ramp
+2a	en
+=22	=22
+4g}	pijn
+!! segment 9.0
+{4dd	en
+4cc#	al-
+4dd	-le
+=23	=23
+2ff	droef-
+2ee	-heyds
+=24	=24
+1dd	schijn,
+=25	=25
+4r}	.
+!! segment 10.0
+{4g	wij
+4g	wil-
+4a	-len
+=26	=26
+2b-	bij
+2a	de
+=27	=27
+4g}	wijn,
+!! segment 11.0
+{4dd	eens
+4cc#x	lus-
+4dd	-tig
+=28	=28
+2ff	vroij-
+2ee	-lijck
+=29	=29
+1dd}	zijn.
+==30||	==30||
+!! segment 12.0
+{4r	.
+4dd	à
+4cc	vous
+4b-	mijn
+=31	=31
+4a	vriend
+(8g	soo
+8a)	.
+4b-	lang
+(8a	be-
+8g)	.
+=32	=32
+4f#}	-mindt,
+!! segment 13.0
+{4g	wij
+4a	wil-
+4b-	-len
+=33	=33
+4cc	nu
+4a	niet
+2b-	treu-
+=34	=34
+2a}	-ren
+!! segment 14.0
+{(8g	fa
+8f)	.
+(8g	la
+8a)	.
+=35	=35
+(8b-	la
+8a)	.
+(8b-	la
+8cc)	.
+(8dd	la
+8cc)	.
+(8dd	la
+8ee)	.
+=36	=36
+4ff	la
+(8ee	la
+8dd)	.
+4cc	la
+4ff}	la
+!! segment 15.0
+=37	=37
+{4ee	't daeg-
+4dd	-lycks
+4cc	niet
+4b-	ge-
+=38	=38
+2a	-beu-
+2g	-ren,
+=39	=39
+4r}	.
+!! segment 16.0
+{4g	Nu
+4g	't hooft
+4a	eens
+=40	=40
+2b-	uyt
+2a	de
+=41	=41
+4g}	ploy,
+!! segment 17.0
+{4dd	en
+4cc#	't voor-
+4dd	-hooft
+=42	=42
+2ff	glad
+2ee	en
+=43	=43
+1dd	moij,
+=44	=44
+4r}	.
+!! segment 18.0
+{4g	geen
+4g	boeck
+4a	of
+=45	=45
+2b-	geen
+2a	pa-
+=46	=46
+4g}	-pier,
+!! segment 19.0
+{4dd	be-
+4cc#	-neem
+4dd	nu
+=47	=47
+2ff	ons
+2ee	plaij-
+=48	=48
+1dd}	-sier
+==49||	==49||
+!! segment 20.0
+{4r	.
+4dd	de
+4cc	pen
+4b-	van
+=50	=50
+4a	't oor,
+(8g	dit 's
+8a)	.
+4b-	geen
+(8a	kan-
+8g)	.
+=51	=51
+4f#}	-toor,
+!! segment 21.0
+{4g	maer
+4a	eer
+4b-	een
+=52	=52
+4cc	vet-
+4a	-te
+2b-	keu-
+=53	=53
+2a}	-ken
+!! segment 22.0
+{(8g	fa
+8f)	.
+(8g	la
+8a)	.
+=54	=54
+(8b-	la
+8a)	.
+(8b-	la
+8cc)	.
+(8dd	la
+8cc)	.
+(8dd	la
+8ee)	.
+=55	=55
+4ff	la
+(8ee	la
+8dd)	.
+4cc}	la
+!! segment 23.0
+{4ff	hier
+=56	=56
+4ee	past
+4dd	geen
+4cc	hooft
+4b-	vol
+=57	=57
+2a	kren-
+2g	-cken
+=58	=58
+4r}	.
+!! segment 24.0
+{4g	houw
+4g	daer
+4a	ge-
+=59	=59
+2b-	-wen-
+2a	-ste
+=60	=60
+4g}	vrindt,
+!! segment 25.0
+{4dd	soo
+4cc#	lang
+4dd	van
+=61	=61
+2ff	ons
+2ee	be-
+=62	=62
+1dd	-mindt
+=63	=63
+4r}	.
+!! segment 26.0
+{4g	die
+4g	met
+4a	ons
+=64	=64
+2b-	eens
+2a	ge-
+=65	=65
+4g}	-sindt
+!! segment 27.0
+{4dd	ons
+4cc#	har-
+4dd	-te
+=66	=66
+2ff	't sa-
+2ee	-men
+=67	=67
+1dd}	bindt
+==68||	==68||
+!! segment 28.0
+{4r	.
+4dd	drinck
+4cc	uyt
+4b-	myn
+=69	=69
+4a}	vrindt
+!! segment 29.0
+{(8g	soo
+8a)	.
+4b-	lang
+(8a	be-
+8g)	.
+=70	=70
+4f#}	-mindt
+!! segment 30.0
+{4g	wij
+4a	wil-
+4b-	-len
+=71	=71
+4cc	nu
+4a	niet
+2b-	treu-
+=72	=72
+2a}	-ren
+!! segment 31.0
+{(8g	fa
+8f)	.
+(8g	la
+8a)	.
+=73	=73
+(8b-	la
+8a)	.
+(8b-	la
+8cc)	.
+(8dd	la
+8cc)	.
+(8dd	la
+8ee)	.
+=74	=74
+4ff	la
+(8ee	la
+8dd)	.
+4cc}	la
+!! segment 32.0
+{4ff	't kan
+=75	=75
+4ee	daeg-
+4dd	-lijcks
+4cc	niet
+4b-	ge-
+=76	=76
+2a	-beu-
+2g}	-ren.
+==77|!	==77|!
+!! segment 33.0
+{4r	.
+4g	Dit
+4g	moedt
+4a	niet
+=78	=78
+2b-	van
+2a	de
+=79	=79
+4g}	mondt,
+!! segment 34.0
+{4dd	als
+4cc#	uyt
+4dd	tot
+=80	=80
+2ff	aan
+2ee	de
+=81	=81
+1dd	grondt
+=82	=82
+4r}	.
+!! segment 35.0
+{4g	Elck
+4g	wenst
+4a	sijn
+=83	=83
+2b-	Ro-
+2a	-se-
+=84	=84
+4g}	-mondt,
+!! segment 36.0
+{4dd	lang
+4cc#	le-
+4dd	-ven
+=85	=85
+2ff	en
+2ee	Ge-
+=86	=86
+1dd	-sondh
+=87	=87
+4r}	.
+!! segment 37.0
+{4dd	Drinck
+4cc	uyt
+4b-	myn
+=88	=88
+4a}	vrindt,
+!! segment 38.0
+{(8g	soo
+8a)	.
+4b-	lang
+(8a	be-
+8g)	.
+=89	=89
+4f#}	-mindt,
+!! segment 39.0
+{4g	wij
+4a	wil-
+4b-	-len
+=90	=90
+4cc	nu
+4a	niet
+2b-	treu-
+=91	=91
+2a}	-ren
+!! segment 40.0
+{(8g	fa
+8f)	.
+(8g	la
+8a)	.
+=92	=92
+(8b-	la
+8a)	.
+(8b-	la
+8cc)	.
+(8dd	la
+8cc)	.
+(8dd	la
+8ee)	.
+=93	=93
+4ff	la
+(8ee	la
+8dd)	.
+4cc}	la
+!! segment 41.0
+{4ff	't kan
+=94	=94
+4ee	daeg-
+4dd	-lycks
+4cc	niet
+4b-	ge-
+=95	=95
+2a	-beu-
+2g}	-ren.
+==|!	==|!
+*-	*-
+!! generated by wce2krn 1.82 (released on 22 September 2018)

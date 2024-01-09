@@ -1,0 +1,805 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! Part of the Meertens Tune Collections (MTC) (http://www.liederenbank.nl/mtc)
+!! NLB identifier: NLB138114_01
+!! NLB record number: 138114
+!! NLB strophe/voice number: 1
+!!!OTL: 789
+**kern
+*staff1
+*clefG2
+*M3/4
+*MM120
+*k[]
+*C:
+!! segment 0.0
+=1
+{4cc
+4cc
+4cc
+=2
+2cc
+4g
+=3
+4cc
+4cc
+4cc
+=4
+2.cc}
+=5
+!! segment 0.1
+{4ee
+4cc
+4cc
+=6
+2cc
+4g
+=7
+4cc
+4cc
+4cc
+=8
+2.cc}
+!! segment 1.0
+=9
+{8cc
+8b
+8cc
+8dd
+4cc
+=10
+8ee
+8dd
+8ee
+8ff
+4ee
+=11
+8gg
+8ff
+8gg
+8aa
+4gg
+=12
+2ccc
+4ccc}
+=13
+!! segment 1.1
+{8gg
+8ff
+8gg
+8aa
+4gg
+=14
+8ee
+8dd
+8ee
+8ff
+4ee
+=15
+8cc
+8b
+8cc
+8dd
+4cc
+=16
+2ee
+4g}
+!! segment 2.0
+=17
+{4cc
+8cc
+8cc
+8cc
+8cc
+=18
+4g
+8cc
+8cc
+8cc
+8cc}
+=19
+!! segment 2.1
+{4ee
+8cc
+8cc
+8cc
+8cc
+=20
+4g
+8cc
+8cc
+8cc
+8cc}
+=21
+!! segment 2.2
+{4ee
+8cc
+8cc
+8cc
+8cc
+=22
+4g
+8cc
+8cc
+8cc
+8cc
+=23
+2.cc}
+!! segment 3.0
+=24
+{8cc
+16cc
+16cc
+8cc
+8cc
+8cc
+8cc
+=25
+8ee
+16ee
+16ee
+8ee
+8ee
+4ee
+=26
+8gg
+16gg
+16gg
+8gg
+8gg
+8gg
+8gg
+=27
+8ee
+16ee
+16ee
+8ee
+8ee
+8ee
+8ee
+=28
+2.cc}
+!! segment 4.0
+=29
+{4cc
+4cc
+4g
+=30
+4cc
+4cc
+4g
+=31
+8cc
+8cc
+4cc
+4g
+=32
+4cc
+4cc
+4g}
+=33
+!! segment 4.1
+{4cc
+4cc
+4g
+=34
+8cc
+8cc
+4cc
+4g}
+=35
+!! segment 4.2
+{4ee
+8cc
+8cc
+8cc
+8g
+=36
+4ee
+4dd
+8ee
+8cc}
+!! segment 5.0
+=37
+{4ee
+4dd
+8ee
+8cc
+=38
+4ee
+4dd
+8ee
+8dd}
+=39
+!! segment 5.1
+{4cc
+8cc
+8cc
+8cc
+8b
+=40
+8cc
+8dd
+8ee
+8dd
+8ee
+8ff}
+=41
+!! segment 5.2
+{8gg
+8gg
+2gg
+=42
+8gg
+8gg
+2gg}
+=43
+!! segment 5.3
+{4ccc
+4gg
+4ee
+=44
+4gg
+4ee
+4cc}
+!! segment 6.0
+=45
+{4ee
+4gg
+4ee
+=46
+2.cc}
+=47
+!! segment 6.1
+{4g
+4g
+4g
+=48
+2g
+4c
+=49
+4g
+4g
+4cc
+=50
+2g
+4c}
+=51
+!! segment 6.2
+{4g
+4cc
+8g
+8g
+=52
+4g
+4e
+4g}
+!! segment 7.0
+=53
+{4e
+4c
+4e
+=54
+4c
+4e
+4g
+=55
+2.cc}
+=56
+!! segment 7.1
+{4cc
+4ee
+4gg
+=57
+4ccc
+4gg
+4ee
+=58
+2.cc}
+!! segment 8.0
+=59
+{8.cc
+16dd
+8cc
+8g
+8cc
+8dd
+=60
+8.ee
+16ff
+8ee
+8cc
+8ee
+8ff}
+=61
+!! segment 8.1
+{8.gg
+16aa
+8gg
+8gg
+8ccc
+8gg
+=62
+8.gg
+16aa
+8gg
+8ff
+8ee
+8dd
+=63
+2.cc}
+!! segment 9.0
+=64
+{8cc
+8cc
+4cc
+4cc
+=65
+8c
+8c
+4c
+4c
+=66
+8cc
+8cc
+4cc
+4cc
+=67
+8c
+8c
+4c
+4c}
+=68
+!! segment 9.1
+{2cc
+4dd
+=69
+8.ee
+16ff
+8gg
+8dd
+8ee
+8ff
+=70
+8.ee
+16ff
+8gg
+8dd
+8ee
+8ff
+=71
+8ee
+8ff
+8gg
+8ee
+8ff
+8gg
+=72
+2.cc}
+!! segment 10.0
+=73
+{4r
+4r??
+! 1)
+4g??
+! Segno
+=74
+2cc
+8b
+8cc
+=75
+2dd
+8cc
+8dd
+=76
+2ee
+8dd
+8ee
+=77
+2ff
+4ee
+=78
+4.dd??
+! +
+8cc
+8dd
+8ee
+=79
+2cc}??
+! Segno
+=:!!:
+!! segment 11.0
+{8ee
+8ff
+=80
+2gg
+4aa
+=81
+2gg??
+! +
+4ff
+=82
+2ee??}
+! +
+!! segment 11.1
+{8dd
+8ee
+=83
+2ff
+4ff
+=84
+4.gg
+8ff
+4ee
+=85
+2dd??}
+! +
+!! segment 11.2
+{4g
+=86
+4.cc
+8dd
+8ee
+8ff
+=87
+4.gg
+8aa
+8gg
+8ff
+=88
+2ee}??
+! +
+!! segment 12.0
+{8dd
+8ee
+=89
+4ff
+4ff
+4ee
+=90
+4.dd??
+! +
+8cc
+8dd
+8ee
+=91
+2cc}
+=:!!:
+!! segment 13.0
+{8dd
+8ee
+=92
+2ff
+4ff
+=93
+8ff
+8ee
+8ff
+8gg
+8ff
+8ee
+=94
+8ff
+8ee
+8ff
+8gg
+8ff
+8ee
+=95
+4dd
+4ee
+4ff}
+=96
+!! segment 13.1
+{4.gg
+8ff
+8ee
+8dd
+=97
+2cc}
+!! segment 13.2
+{8cc
+8dd
+=98
+4.ee
+8ff
+8ee
+8dd
+=99
+2cc}
+!! segment 14.0
+{8cc
+8dd
+=100
+8cc
+8dd
+8ee
+8ff
+8ee
+8dd
+=101
+2.cc}
+=102
+!! segment 14.1
+{4g
+4g
+4g
+=103
+2g
+4g
+=104
+4g
+4g
+4g
+=105
+2.cc}
+=106
+!! segment 14.2
+{4cc
+4cc
+4cc
+=107
+4.cc
+8b
+8cc
+8dd
+=108
+8cc
+8b
+8cc
+8dd
+8ee
+8ff
+=109
+2.gg}
+!! segment 15.0
+=110
+{4r
+4r
+16cc
+16dd
+16ee
+16ff
+=111
+8gg
+8gg
+8gg
+8gg
+8gg
+8gg
+=112
+4.gg??
+! +
+8ff
+4ee}
+=113
+!! segment 15.1
+{8ee
+8ee
+8ee
+8ee
+8ee
+8ee
+=114
+4.ee??
+! +
+8dd
+4cc}
+!! segment 16.0
+=115
+{4gg
+16cc
+16dd
+16ee
+16ff
+4gg
+=116
+4ff
+16dd
+16ee
+16ff
+16gg
+4aa}
+=117
+!! segment 16.1
+{4gg
+16cc
+16dd
+16ee
+16ff
+4gg
+=118
+4.gg??
+! +
+8ff
+8ee
+8dd
+=119
+8ee
+8ff
+4.dd??
+! +
+8cc
+=120
+2.cc}
+!! segment 17.0
+=121
+{4.gg
+8ff
+4ee
+=122
+8ff
+8gg
+4aa
+4aa
+=123
+4.gg??
+! +
+8ff
+4ee
+=124
+4ff
+4ee
+8dd
+8cc
+=125
+4dd
+4g
+4g}
+=126
+!! segment 17.1
+{4.cc
+8dd
+8ee
+8ff
+=127
+4.gg
+8ff
+8ee
+8gg
+=128
+8ff
+8ee
+4.dd??
+! +
+8cc
+=129
+*M2/2
+2.cc}
+!! segment 18.0
+{4cc??
+! Segno
+=130
+4ee
+4ee
+8ee}
+!! segment 18.1
+{8ff
+4gg
+=131
+4ee
+4ee
+4ee
+8cc
+8dd
+=132
+8ee
+8dd
+8ee
+8ff
+8ee
+8ff
+8gg
+8ff
+=133
+2.ee}??
+! Segno
+! +
+=:!!:
+!! segment 19.0
+{8cc
+8dd
+=134
+4ee
+4ee
+8ee
+8ff
+4gg
+=135
+4.cc
+8b
+4cc
+8dd
+8ee
+=136
+8ff
+8gg
+8ee
+8ff
+4.dd??
+! +
+8cc
+=137
+2.cc}
+=:!!:
+!! segment 20.0
+{4cc
+=138
+*M3/4
+4cc
+4g
+4cc
+=139
+4cc
+4g
+4cc
+=140
+4cc
+4g
+4cc
+=141
+4cc
+4g
+4cc}
+=142
+!! segment 20.1
+{8cc
+8b
+8cc
+8dd
+8ee
+8ff
+=143
+4gg
+4gg
+4gg
+=144
+2.gg}
+!! segment 21.0
+=145
+{8ee
+8dd
+8cc
+8dd
+8ee
+8ff
+=146
+8gg
+8ff
+8gg
+8aa
+8gg
+8ff}
+=147
+!! segment 21.1
+{8ee
+8dd
+8cc
+8dd
+8ee
+8ff
+=148
+8gg
+8ff
+8gg
+8aa
+8gg
+8ff
+=149
+4.ee??
+! +
+8dd
+4cc
+=150
+4dd
+4.dd??
+! +
+8cc
+=151
+2cc}
+==|!
+*-
+!! Transcriptie Simon Plantinga
+!! 1) Geen rusten in bron.
+!!
+!! generated by wce2krn 1.82 (released on 22 September 2018)

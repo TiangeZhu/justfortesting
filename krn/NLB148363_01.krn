@@ -1,0 +1,503 @@
+!! Published by the Meertens Institute (http://www.meertens.knaw.nl)
+!! Part of the Database of Dutch Songs (NLB) (http://www.liederenbank.nl)
+!! Part of the Meertens Tune Collections (MTC) (http://www.liederenbank.nl/mtc)
+!! NLB identifier: NLB148363_01
+!! NLB record number: 148363
+!! NLB strophe/voice number: 1
+!!!OTL: Twintig stoute kinderen. Negentien Benjaminderen
+**kern	**text
+*staff1	*staff1
+*clefG2	*
+*M6/8	*
+*MM120	*
+*k[]	*
+*a:	*
+!! segment 0.0
+=1	=1
+{(8cc	Twin-
+8a)	.
+8cc	-tig
+(8dd	stou-
+8cc)	.
+8cc	-te
+=2	=2
+4a	kin-
+8g	-de-
+4a	-ren.
+8r}	.
+!! segment 1.0
+=3	=3
+{8cc	Ne-
+8a	-gen-
+8cc	-tien
+(8dd	Ben-
+8cc)	.
+8cc	-ja-
+=4	=4
+4a	-min-
+8g	-de-
+4a	-ren;
+8r}	.
+!! segment 2.0
+=5	=5
+{4.b-	Acht-
+8b-	-tie-
+8cc	-ne.
+8dd	Den
+=6	=6
+4.cc	klei-
+4a	-nen.
+8r}	.
+!! segment 3.0
+=7	=7
+{4b-	Ze-
+8b-	-ven-
+8b-	-tie-
+8cc	-ne.
+8dd	Schoon-
+=8	=8
+4.cc	-hei-
+4a	-den.
+8r}	.
+!! segment 4.0
+=9	=9
+{4cc	Zes-
+8cc	-tien.
+8dd	Kin-
+8cc	-ders
+8cc	van
+=10	=10
+8a	I-
+8a	-ze-
+8g	-ra-
+4a	-ël-
+8a}	-le.
+!! segment 5.0
+=11	=11
+{8cc	't Zijn
+8a	de
+8cc	vijf-
+(8dd	-tien
+8cc)	.
+8cc	my-
+=12	=12
+4a	-ste-
+8g	-ri-
+4a}	-ën.
+!! segment 6.0
+{8a	De
+=13	=13
+(8cc	veer-
+8a)	.
+8cc	-tien
+8dd	Wa-
+8cc	-re
+8cc	da'
+=14	=14
+8a	Ma-
+8a	-ri-
+8g	-a
+4a}	ging,
+!! segment 7.0
+{8cc	Waar
+=15	=15
+8cc	dat
+8a	haar
+8cc	lief
+8dd	zoon-
+8cc	-tje
+8cc	naar
+=16	=16
+4a	't kruis-
+8g	-je
+4a	hing.
+8r}	.
+!! segment 8.0
+=17	=17
+{8a	't Zijn
+8cc	de
+8cc	der-
+(8dd	-tien
+8cc)	.
+8cc	ge-
+=18	=18
+(4a	-kroon-
+8g)	.
+4a}	-den,
+!! segment 9.0
+{8a	De
+=19	=19
+(8cc	twaalf
+8a)	.
+8cc	Ons
+(8dd	Heer'
+8cc)	.
+8cc	a-
+=20	=20
+4a	-pos-
+8g	-te-
+4a}	-len.
+!! segment 10.0
+{8a	Elf
+=21	=21
+8cc	le-
+8cc	-ven
+8cc	de
+8dd	dui-
+8cc	-zen-
+8cc	-de
+=22	=22
+4a	maag-
+8g	-de-
+4a	-tjes.
+8r}	.
+!! segment 11.0
+=23	=23
+{4cc	't Zijn
+8cc	de
+(8dd	tien
+8cc)	.
+8cc	ge-
+=24	=24
+8a	-bo-
+8a	-den
+8g	van
+4a}	God.
+!! segment 12.0
+{8a	De
+=25	=25
+(8cc	ne-
+8a)	.
+8cc	-gen
+8dd	Koo-
+8cc	-ren
+8cc	der
+=26	=26
+4a	en-
+8g	-ge-
+4a	-len.
+8r}	.
+!! segment 13.0
+=27	=27
+{4.b	Acht
+(8b	za-
+8cc)	.
+8dd	-lig-
+=28	=28
+4.cc	-hei-
+4a	-den.
+16cc	Ze-
+16b	-ven
+=29	=29
+(4.a	ga-
+4.g)	.
+=30	=30
+4.a	-ven:
+4r}	.
+!! segment 14.0
+{16a	Ze-
+16b	-ven
+=31	=31
+8cc	ga-
+8a	-ven
+8cc	van
+(8dd	God
+8cc)	.
+8cc	den
+=32	=32
+8a	Hei-
+8a	-li-
+8g	-gen
+4a}	Geest;
+!! segment 15.0
+{16a	God
+16b	ver-
+=33	=33
+(8cc	-leent
+8a)	.
+8cc	zijn
+8dd	gra-
+8cc	-tie-
+8cc	-ten
+=34	=34
+8a	al
+8a	de-
+8g	-re-
+4a}	-meest.
+!! segment 16.0
+{8g	Zes
+=35	=35
+(4f	pot-
+8g)	.
+4a	-jes:
+8a	zes
+=36	=36
+8cc	pot-
+8a	-jes
+8cc	ver-
+8dd	-an-
+8cc	-derd
+8cc	in
+=37	=37
+8a	wa-
+8a	-ter
+8g	en
+4a}	wijn,
+!! segment 17.0
+{8a	Waar
+=38	=38
+8cc	Chris-
+8a	-tus
+8cc	zijn
+8dd	eer-
+8cc	-ste
+8cc	mi-
+=39	=39
+8a	-ra-
+8a	-kel
+8g	ont-
+4a}	-ging,
+!! segment 18.0
+{8a	Al-
+=40	=40
+(8cc	-waar
+8a)	.
+8cc	hij
+8dd	o-
+8cc	-ver
+8cc	den
+=41	=41
+4a	brui-
+8g	-loft
+4a}	ging.
+!! segment 19.0
+{8a	Den
+=42	=42
+(8cc	brui-
+8a)	.
+8cc	-loft
+(8dd	viel
+8cc)	.
+8cc	in
+=43	=43
+(4a	Ca-
+8g)	.
+4a}	-na,
+!! segment 20.0
+{8a	Van
+=44	=44
+8cc	Ca-
+8a	-na
+8cc	in
+8dd	Glo-
+8cc	-ri-
+8cc	-o-
+=45	=45
+(4a	-lei-
+8g)	.
+4a}	-ja,
+!! segment 21.0
+{8a	Tot
+=46	=46
+8cc	op-
+8a	-per
+8cc	Bru-
+(8dd	-no's
+8cc)	.
+8cc	Ka-
+=47	=47
+(4a	-steel-
+8g)	.
+4a}	-tje.
+!! segment 22.0
+{8a	De
+=48	=48
+8cc	vier
+8a	hei-
+8cc	-lig'-
+8dd	-e-
+8cc	-van-
+8cc	-ge-
+=49	=49
+(4a	-lis-
+8g)	.
+4a	-tes.
+8r}	.
+!! segment 23.0
+=50	=50
+{4f	A'-
+8g	-bre-
+4a	-ham,
+8r	.
+=51	=51
+(4f	I-
+8g)	.
+4a	-zaak,
+8r}	.
+!! segment 24.0
+=52	=52
+{8cc	A-
+8a	-bre-
+8cc	-ham,
+8dd	I-
+8cc	-zaak
+8cc	en
+=53	=53
+(4a	Ja-
+8g)	.
+4a}	-cob.
+!! segment 25.0
+{16a	De
+16a	twee
+=54	=54
+(8cc	stee-
+8a)	.
+8cc	-nen
+8dd	ta-
+8cc	-fels
+8cc	van
+=55	=55
+(4a	Mooi-
+8g)	.
+4a	-zes.
+8r}	.
+!! segment 26.0
+=56	=56
+{(8cc	Eén
+8a)	.
+8cc	ge-
+8dd	-loo-
+8cc	-ve-
+8cc	-tje
+=57	=57
+(4a	Chris-
+8g)	.
+4a}	-tus',
+!! segment 27.0
+{8a	Het
+=58	=58
+(8cc	woord
+8a	.
+8cc)	.
+(8dd	ons
+8cc)	.
+8cc	ge-
+=59	=59
+4a	-ge-
+8g	-ven
+4a}	vrij,
+!! segment 28.0
+{8a	Tot
+=60	=60
+8cc	op-
+8a	-per
+8cc	den
+(8dd	berg
+8cc)	.
+8cc	van
+=61	=61
+4a	Si-
+8g	-na-
+4a}	-ï,
+!! segment 29.0
+{8a	Tot
+=62	=62
+8cc	op-
+8a	-per
+8cc	den
+(8dd	dag
+8cc)	.
+8cc	van
+=63	=63
+(4a	he-
+8g)	.
+4a}	-den,
+!! segment 30.0
+{8a	Waar
+=64	=64
+(8cc	Chris-
+8a)	.
+8cc	-tus
+(8dd	wier'
+8cc)	.
+8cc	be-
+=65	=65
+(4a	-sne-
+8g)	.
+4a}	-den.
+!! segment 31.0
+{8g	Den
+=66	=66
+8f	Hee-
+8f	-re
+8g	die
+4a	leeft,
+8g	die
+=67	=67
+4f	't ons
+8g	al
+4a}	geêt,
+!! segment 32.0
+{8a	Die
+=68	=68
+8cc	he-
+8a	-mel
+8cc	en
+8dd	aar-
+8cc	-de
+8cc	van
+=69	=69
+8a	niet
+8a	ge-
+8g	-maakt
+4a}	heêt.
+!! segment 33.0
+{8g	Zeg
+=70	=70
+8f	wie
+8f	en
+8g	hoe,
+4a	Heer,
+8a	Zeg
+=71	=71
+8cc	wie
+8a	en
+8cc	hoe,
+8dd	Heer,
+8cc	hoe
+8cc	is 't
+=72	=72
+4a	twee-
+8g	-de
+4a	deel?
+8r}	.
+!! segment 34.0
+=73	=73
+{8cc	't Eer-
+8a	-ste is
+8cc	van
+(8dd	Sin-
+8cc)	.
+8cc	-te
+=74	=74
+4a	Bar-
+8g	-ba-
+4a	-ra;
+8r}	.
+!! segment 35.0
+=75	=75
+{8cc	't Twee-
+8a	-de is
+8cc	van
+(8dd	Sin-
+8cc)	.
+8cc	-te
+=76	=76
+4a	Thre-
+8g	-si-
+4a	-a;
+8r}??	.
+! enz.	!
+==|!	==|!
+*-	*-
+!! generated by wce2krn 1.82 (released on 22 September 2018)
